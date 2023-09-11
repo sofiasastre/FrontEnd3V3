@@ -1,0 +1,30 @@
+# Ignorar archivos .DS_Store en todas partes
+.DS_Store
+
+# Ignorar archivos .DS_Store en la carpeta Modulo1 y sus subcarpetas
+Modulo1/.DS_Store
+
+# Ignorar carpetas específicas en la carpeta Modulo1
+Modulo1/20230724-C1A-DeJavaScriptVanillaAReact/
+Modulo1/20230726-C2A-HerramientosYPrimerProyecto/
+
+# Ignorar archivos .DS_Store en la carpeta Modulo2 y sus subcarpetas
+Modulo2/.DS_Store
+
+# Ignorar carpetas específicas en la carpeta Modulo2
+Modulo2/20230731-C3A-PensandoEnReact/
+Modulo2/20230802-C4A-TrabajandoConComponentes/
+
+# Ignorar archivos .DS_Store en la carpeta Modulo3 y sus subcarpetas
+Modulo3/.DS_Store
+
+# Ignorar carpetas específicas en la carpeta Modulo3
+Modulo3/20230807-C5A-Hooks/
+Modulo3/20230809-C6A-EventosFormularios/
+
+# Ignorar la carpeta Modulo5
+Modulo5/
+
+# Ignorar archivos específicos
+_1.2. Mesa de trabajo C6.docx (1).pdf
+recuperar archivo de un repo.txt
